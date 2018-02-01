@@ -1,0 +1,3 @@
+Leenalle !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Tämän palautuksen kohdalla kävi niin että, varmuuskopioidessani projektisuunnitelmaani, jonka sain koulussa melkein valmiiksi se hävisi bittiavaruuteen(Koulussa se todennäköisesti on). Tämän vuoksi tein sen melkein alusta kotona uudestaan, mutta en pysty avaamaan Visio-kaavioita, koska minulla ei ole kyseistä ohjelmaa, enkä sitä ymmärtääkseni mistään saa ilmaiseksi. Tämän vuoksi kaikki kaaviot ovat kaaviot kansiossa tässä repositoriossa. Mikäli voit odottaa ensiviikon maanantaihin asti voisin silloin hakea alkuperäisen projektisuunnitelman koulusta ja ladata sen gittiin.
